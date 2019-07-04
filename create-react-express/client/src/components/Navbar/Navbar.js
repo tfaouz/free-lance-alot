@@ -39,6 +39,10 @@ function Navbar(props) {
                             <a class="nav-link" href="/profile">Profile
                             </a>
                         </li>
+                        <li class="nav-item active">
+                            <a class="nav-link" href="/Tutorials">Tutorials
+                            </a>
+                        </li>
                         <li class="nav-item inactive">
                             <Button><a href="/"onClick={() => firebase.auth().signOut()} id="signOut" data-toggle="modal" data-target="#exampleModal" text="Sign Out">Sign Out</a> 
                             </Button>

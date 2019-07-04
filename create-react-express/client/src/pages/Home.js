@@ -9,6 +9,7 @@ import Footer from "../components/Footer/Footer";
 import Form from "../components/Form/Form"
 import Featuredjobs from "../components/Featuredjobs/Featuredjobs"
 
+
 function Home() {
   return (
     <div className="text-center animated fadeIn 3s">
