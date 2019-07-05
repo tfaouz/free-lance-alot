@@ -20,11 +20,13 @@ const Tutorials = props =>
                 <p>The languages and technologies currently taught by freeCodeCamp include HTML5, CSS 3, JavaScript, jQuery, Bootstrap, Sass, React.js, Node.js, Express.js, MongoDB, and Git.
                 </p>
                 <p><a href="https://www.freecodecamp.org">https://www.freecodecamp.org</a></p>
+                <br></br>
             </div>
             <div className="row">
                 <br></br>
                 <h4>Codecadamy</h4>
-                <p>Codecadamy teaches coding basics like HTML & CSS, JavaScript, PHP, Python, Ruby, Angularjs, The Command Line, and more </p>
+                <br></br>
+                <p> Codecadamy teaches coding basics like HTML & CSS, JavaScript, PHP, Python, Ruby, Angularjs, The Command Line, and more </p>
                 <p><a href="https://www.codecademy.com/">https://www.codecademy.com/</a></p>
             </div>
             <div className="row">
