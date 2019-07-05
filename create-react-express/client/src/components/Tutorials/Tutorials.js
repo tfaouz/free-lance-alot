@@ -10,7 +10,8 @@ const Tutorials = props =>
     <div className="container">
         <div className="featured">
             <div className="title">
-                <h3>Coding Tutorials.</h3>
+                <h1>Coding Tutorials.</h1>
+                <h2>If you need to brush up on or learn some new materials this is the place for you you </h2>
                 <hr></hr>
             </div>
             <div className="row">
