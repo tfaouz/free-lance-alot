@@ -7,7 +7,7 @@ import Tutorials from "../components/Tutorials/Tutorials"
 function LearningTutorials() {
   return (
     <div>
-      <Tutorials />
+      <Tutorials/>
       <Footer/>
     </div>
   )

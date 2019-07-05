@@ -11,7 +11,7 @@ import ProfileTanya from'./pages/ProfileTanya';
 import ProfileBrittany from'./pages/ProfileBrittany';
 import ProfileNygel from'./pages/ProfileNygel';
 import ProfileThibault from'./pages/ProfileThibault';
-
+import Tutorial from './pages/Tutorials';
 class App extends Component {
   render() {
     return (
@@ -28,7 +28,7 @@ class App extends Component {
             <Route exact path='/profileBrittany' component={ProfileBrittany} />
             <Route exact path='/profileNygel' component={ProfileNygel} />
             <Route exact path='/profileThibault' component={ProfileThibault} />
-
+            <Route exact path='/Tutorials' component={Tutorial} />
           </Switch>
         </div>
       </Router>
